@@ -4,7 +4,12 @@
 [![Linkedin Hugo Baird](https://img.shields.io/badge/Hugo-Baird-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-baird/)](https://www.linkedin.com/in/hugo-baird/)
 [![GitHub hugonzb](https://img.shields.io/github/followers/hugonzb?label=follow&style=social)](https://github.com/hugonzb)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact" />
+</a>
 
 <br>
 
