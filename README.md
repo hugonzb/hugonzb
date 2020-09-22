@@ -13,7 +13,7 @@
 | |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=FFFFFF&text_color=C0C0C0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=17202A&text_color=212F3C&bg_color=FFFFFF" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact" />
