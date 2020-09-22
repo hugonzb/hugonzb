@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Linkedin Hugo Baird](https://img.shields.io/badge/Hugo-Baird-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-baird/)](https://www.linkedin.com/in/hugo-baird/)
 [![GitHub hugonzb](https://img.shields.io/github/followers/hugonzb?label=follow&style=social)](https://github.com/hugonzb)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hugonzb)]
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hugonzb)
