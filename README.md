@@ -10,6 +10,11 @@
 - Agora Student Marketplace
 - Job Listing Noticeboard
 
+| 🔨 Projects I'm currently working on |
+|:---------------------------|
+|    Agora Student Marketplace  |
+|    Job Listing Noticeboard    |
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight" />
 </a>
