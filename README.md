@@ -10,8 +10,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact" />
 </a>
-
-<br><br>
+<br>
 
 🌱 I’m currently finishing my BSc double major in Computer Science and Information Science.
 
