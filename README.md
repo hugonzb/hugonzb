@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin: Hugo Baird](https://img.shields.io/badge/Hugo-Baird-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-baird/)](https://www.linkedin.com/in/hugo-baird/)
+[![Linkedin: Hugo Baird](https://img.shields.io/badge/Hugo-Baird-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-baird/)](https://www.linkedin.com/in/hugo-baird/)
