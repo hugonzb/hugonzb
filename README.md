@@ -7,12 +7,13 @@
 🌱 I’m currently finishing my BSc double major in Computer Science and Information Science.
 
 | 🔨 Projects I'm currently working on |
-|:---------------------------|
+|:------------------------------|
 |    Agora Student Marketplace  |
 |    Job Listing Noticeboard    |
+| |
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=FFFFFF&text_color=C0C0C0" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact" />
