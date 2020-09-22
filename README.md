@@ -6,10 +6,6 @@
 
 🌱 I’m currently finishing my BSc double major in Computer Science and Information Science.
 
-🔨 Projects I'm currently working on:
-- Agora Student Marketplace
-- Job Listing Noticeboard
-
 | 🔨 Projects I'm currently working on |
 |:---------------------------|
 |    Agora Student Marketplace  |
