@@ -12,10 +12,10 @@
 |    Job Listing Noticeboard    |
 | |
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=17202A&text_color=212F3C&bg_color=FFFFFF">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=17202A&text_color=212F3C&bg_color=FFFFFF" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugonzb&layout=compact" />
 </a> 
 
