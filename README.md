@@ -9,7 +9,7 @@ I’m currently finishing my Bachelor of Science (BSc) double major in Computer 
 | 🔨 Projects I'm currently working on |
 |:------------------------------|
 |    Agora Student Marketplace  |
-|    Job Listing Noticeboard    |
+| |
 | |
 
 <a href="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=17202A&text_color=212F3C&bg_color=FFFFFF">
