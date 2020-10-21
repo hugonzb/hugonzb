@@ -6,10 +6,10 @@
 
 I’m currently finishing my Bachelor of Science (BSc) double major in Computer Science and Information Science. 🎓
 
-| 🔨 Projects I'm currently working on |
+| 🔨 Projects Recently Completed |
 |:------------------------------|
-|    Agora Student Marketplace  |
-| |
+|  Agora Student Marketplace  |
+|  Imperial Footwear |
 | |
 
 <a href="https://github-readme-stats.vercel.app/api?username=hugonzb&hide=prs&theme=tokyonight&title_color=17202A&text_color=212F3C&bg_color=FFFFFF">
